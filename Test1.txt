@@ -1,2 +1,3 @@
 This is Test 1 file in v1.0 branch add1 vBranch 1 local changes (merged)
 and local changes v3
+This is new in Branch v1.1
