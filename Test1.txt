@@ -6,3 +6,5 @@ This is new in Branch v1.1
 - PULL REQUEST odobren
 ove od localno
 This is new in Branch v1.1  DEJAN branch
+
+Od nov branch
