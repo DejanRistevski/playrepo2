@@ -3,6 +3,6 @@ OVA od GITHUB
 Changes from some ghost
 and local changes v3
 This is new in Branch v1.1
-
+- PULL REQUEST odobren
 ove od localno
 This is new in Branch v1.1  DEJAN branch
