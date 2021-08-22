@@ -1,5 +1,5 @@
 This is Test 1 file in v1.0 branch add1 vBranch 1 local changes (merged)
 Changes from some ghosts
 and local changes v3
-New 1
+New 3
 
